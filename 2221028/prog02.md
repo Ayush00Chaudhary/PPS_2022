@@ -1,4 +1,4 @@
-## Program 2 : Write a program to display the addition of two numbers.
+## Program 2 : Write a program to display the addition of two numbers .
 ```
 #include<stdio.h>
 int main ()
