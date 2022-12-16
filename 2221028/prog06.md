@@ -1,4 +1,4 @@
-## Program 6 : Write a program to demonstrate for loop statement.
+## Program 6 : Write a program to demonstrate for loop statement .
 ```
 #include<stdio.h>
 int main()
