@@ -1,4 +1,4 @@
-## Program 5 : Write a program to show use of if else statement.
+## Program 5 : Write a program to show use of if else statement .
 ```
 #include<stdio.h>
 int main()
