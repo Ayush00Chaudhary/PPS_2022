@@ -1,4 +1,4 @@
-## Program 6: Write a program to use conditional operator
+## Program 7: Write a program to use conditional operator
 ```c 
 #include <stdio.h>
 
