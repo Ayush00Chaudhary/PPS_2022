@@ -1,4 +1,4 @@
-## Program 15: Write a program to check if a number is prime
+## Program 15: Write a program to check if a number is prime .
 ```c 
 #include <stdio.h>
 
